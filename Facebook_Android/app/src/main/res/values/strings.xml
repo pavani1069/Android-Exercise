@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Facebook_Android</string>
+    <string name="facebook_app_id">1259261187457107</string>
+    <string name="main_heading">Facebook Login</string>
+    <string name="uid_txtview">User Id</string>
+    <string name="uid_edittxt">Enter your User ID here..</string>
+    <string name="pwd_txtview">Password</string>
+    <string name="pwd_edittxt">******</string>
+    <string name="title_activity_list">My Friends</string>
+    <string name="webview">Facebook</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
